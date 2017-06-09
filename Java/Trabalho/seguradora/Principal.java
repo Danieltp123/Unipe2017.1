@@ -1,21 +1,4 @@
-//Nitai Charan
-/*TODO: TESTES:
-Vai cair na prova -> java lang
-* Endereço com espaço; OK
-* NextCharLimited - verificar se oq o usuario digitou esta de acordo com os args; OK
-* Fazer o next int limited para pessoal fisica e juridica; OK
-* Tratar a entrada null <enter> do nextChar; OK
-* NullPointerException; // Não Existe
-* 
-* FALTA:
-* Colocar um strlen para ver se a entrada é maior que 0 - String - nome; OK
-* Deixar iniciais do nome do cliente sempre em maiusculo; OK
-* Tratar a entrada do valor do imovel com ponto - FLOAT; OK
-* Tratar a entrada do valor do imovel com letra; OK
-* verificar se o arquivo está vazio - se sim nao pule linha na hora de adicionar (Class verificaArquivoVazio). OK
-* Adicionar tronw exception e tratar metodos static tudo fora da função.
-* 
-*/
+
 package br.unipe.java.seguradora1;
 
 import java.util.ArrayList;
